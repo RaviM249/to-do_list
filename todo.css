@@ -1,0 +1,12 @@
+body{
+	background-color: #f7e9f7;
+}
+#container{
+	border: 2px solid grey;
+	width: 360px;
+	margin: 0 auto;
+}
+.complete{
+	color:gray;
+	text-decoration: line-through;
+}
